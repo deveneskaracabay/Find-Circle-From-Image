@@ -8,4 +8,4 @@ Fotoğrafın orijinal hali:
 <br/>
 Fotoğraftaki yuvarlak cismi tespit edip o cismi işaretledim:
 <br/>
-![img](./detection_circle.jpg)
+![img](./detected_circle.jpg)
